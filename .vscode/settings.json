@@ -1,0 +1,14 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "random": "c",
+        "type_traits": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "cmath": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}

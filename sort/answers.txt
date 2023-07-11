@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: tested sorted 50000.txt was quicker then selection sort
+
+sort2 uses: merge
+
+How do you know?: tested random 50000.txt and was sorted quickest
+
+sort3 uses: selection
+
+How do you know?: was last left plus tried the reversed 50000.txt and was slightly faster then bubble sort
